@@ -1,0 +1,1 @@
+recorded a music box, put into morphagene, reversed and put clock in with morph at around 11. then sequenced plaits with ctrl. ctrl is also triggering switch change with row 3 (could also be done with gate outputs) which is switching between 8th and 16th notes going into plaits. telh set to chord with maths cycling centroid.
